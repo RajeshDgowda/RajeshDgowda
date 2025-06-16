@@ -104,7 +104,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/RajeshDgowda/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=RajeshDgowda&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Rajesh Doddegowda's GitHub Stats" /> </a>
+      <a href="https://github.com/RajeshDgowda/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Rajesh Doddegowda&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Rajesh Doddegowda's GitHub Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/RajeshDgowda/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshDgowda&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" /> </a>
