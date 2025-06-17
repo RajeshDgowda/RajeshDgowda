@@ -12,11 +12,10 @@ Hi there, my name is Rajesh Doddegowda.
 
 A passionate engineer with a Master's degree in Electrical Systems Engineering from Universität Paderborn, specializing in Signals and Information Processing, and a Bachelor's in Electronics and Communication Engineering from Sri Siddhartha Institute of Technology (SSIT), Tumkur, Karnataka, India. My academic and project experiences have enabled me to build a unique blend of knowledge in embedded systems, signal processing, machine learning, and software development.
 
-Driven by curiosity and creativity, I have contributed to diverse industries such as smart home automation, robotics, web application development, and drone-based logistics systems. At Loxone, I worked on developing core logic and visualization systems for embedded smart devices, while at Flowsta I built interactive Qt/QML-based UI applications to enhance digital user experiences. My work in academia includes reinforcement learning-based route planning for drones and swarm robot coordination with real-time UI control.
+Driven by curiosity and creativity, I have contributed to diverse industries such as smart home automation, robotics, web application development, and drone-based logistics systems. At Loxone, I worked on developing core logic and visualization systems for embedded smart devices, while at Flowsta I built interactive Qt/QML-based UI applications to enhance digital user experiences. My work in academia includes reinforcement learning-based route planning for drones and simulator for swarm robot with real-time UI control.
 
 I thrive at the intersection of software and embedded systems, and I’m particularly interested in building tools and applications that are robust, scalable, and user-friendly. Whether I’m optimizing algorithms, designing visual interfaces, or integrating software with hardware, I bring a systems-level approach and a collaborative mindset to every project.
 
-With strong programming skills in C++, Python, and JavaScript, and experience in frameworks like Qt, ROS, and TensorFlow, I’m eager to contribute to cutting-edge innovations in embedded AI, robotics, and intelligent systems.
 
 ## 📨 Social & Contact
 
