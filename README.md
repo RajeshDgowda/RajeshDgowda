@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-Hi, I'm Rajesh Doddegowda 
+Hi there, my name is Rajesh Doddegowda. 
 
 A passionate engineer with a Master's degree in Electrical Systems Engineering from Universität Paderborn, specializing in Signals and Information Processing, and a Bachelor's in Electronics and Communication Engineering from Sri Siddhartha Institute of Technology (SSIT), Tumkur, Karnataka, India. My academic and project experiences have enabled me to build a unique blend of knowledge in embedded systems, signal processing, machine learning, and software development.
 
