@@ -16,6 +16,12 @@ Driven by curiosity and creativity, I have contributed to diverse industries suc
 
 I thrive at the intersection of software and embedded systems, and I’m particularly interested in building tools and applications that are robust, scalable, and user-friendly. Whether I’m optimizing algorithms, designing visual interfaces, or integrating software with hardware, I bring a systems-level approach and a collaborative mindset to every project.
 
+Check out my [portfolio](https://rajeshdgowda.github.io/rajeshdoddegowda.github.io/), [CV](https://drive.google.com/file/d/1E29reQoeo4YQog5aj64LfDZ6arjy567H/view?usp=sharing), and [GitHub résumé](https://resume.github.io/?RajeshDgowda) to learn more about me and my projects.
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=RajeshDgowda&repo=rajeshdoddegowda-CV)](https://github.com/RajeshDgowda/rajeshdoddegowda-CV)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=RajeshDgowda&repo=rajeshdoddegowda.github.io)](https://github.com/RajeshDgowda/rajeshdoddegowda.github.io)
+
 
 ## 📨 Social & Contact
 
