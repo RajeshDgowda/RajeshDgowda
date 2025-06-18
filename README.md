@@ -18,7 +18,7 @@ I thrive at the intersection of software and embedded systems, and I’m particu
 
 Check out my [portfolio](https://rajeshdgowda.github.io/rajeshdoddegowda.github.io/), [CV](https://drive.google.com/file/d/1E29reQoeo4YQog5aj64LfDZ6arjy567H/view?usp=sharing), and [GitHub résumé](https://resume.github.io/?RajeshDgowda) to learn more about me and my projects.
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=RajeshDgowda&repo=rajeshdoddegowda-CV)](https://github.com/RajeshDgowda/rajeshdoddegowda-CV)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=RajeshDgowda&repo=RajeshDoddegowda-CV)](https://github.com/RajeshDgowda/RajeshDoddegowda-CV)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=RajeshDgowda&repo=rajeshdoddegowda.github.io)](https://github.com/RajeshDgowda/rajeshdoddegowda.github.io)
 
